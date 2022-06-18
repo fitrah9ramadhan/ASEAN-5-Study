@@ -87,4 +87,28 @@ Secara keseluruhan, negara ASEAN-5 mengalami korelasi positif. Artinya, terdapat
 * Korelasi terendah dialami oleh pasangan negara Indonesia-Filipina dengan nilai korelasi sebesar 0,37
 
 
-# TO BE CONTINUED.....
+## Inflasi
+
+![inflasi Tahun 1960 - 2021!](/pictures/inflation1960-2021.png)
+
+Inflasi di Indonesia sangat bergejolak terutama sebelum tahun 1970. Pada masa itu terjadi hyperinflasi di Indonesia.
+
+![inflasi pasca 1970!](/pictures/inflation1970-2021.png)
+
+Pasca 1970, Indonesia berhasil melakukan stabilisasi tingkat inflasi. Namun secara keseluruhan, Indonesia tetap menjadi negara dengan fluktuasi inflasi yang paling tinggi dibanding negara lainnya.
+
+![boxplot inflasi](/pictures/inflation1970-2021.png)
+
+Sebaliknya, Singapura menjadi negara yang paling stabil dalam menangani fluktuasi ekstrim dari tingkat inflasi.
+
+* Interquartile Indonesia : 8.350583150582125
+* Interquartile Malaysia : 5.624871041423183
+* Interquartile Singapore : 3.6150353508487516
+* Interquartile Thailand : 4.025250997713025
+* Interquartile Philippines : 6.40322063068572
+
+Terdapat hubungan yang sangat kuat untuk tingkat inflasi di ASEAN-5
+
+![heatmap inflasi](/pictures/inflation-heatmap.png)
+
+

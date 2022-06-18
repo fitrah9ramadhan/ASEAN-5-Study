@@ -97,7 +97,7 @@ Inflasi di Indonesia sangat bergejolak terutama sebelum tahun 1970. Pada masa it
 
 Pasca 1970, Indonesia berhasil melakukan stabilisasi tingkat inflasi. Namun secara keseluruhan, Indonesia tetap menjadi negara dengan fluktuasi inflasi yang paling tinggi dibanding negara lainnya.
 
-![boxplot inflasi](/pictures/inflation1970-2021.png)
+![boxplot inflasi](/pictures/inflation-boxplot1970-2021.png)
 
 Sebaliknya, Singapura menjadi negara yang paling stabil dalam menangani fluktuasi ekstrim dari tingkat inflasi.
 

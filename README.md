@@ -67,7 +67,7 @@ Selain dari dua krisis besar, Asian Financial Crisis 1997 dan Pandemi Covid-19, 
 
 > #### Penjelasan mengenai bagian-bagian boxplot
 >> * Titik-titik yang berada diluar ekor boxplot menunjukkan data outlier.
->> * Garis horizontal berwarna hijau menunjukkan nilai tengah
+>> * Garis horizontal ditengah box menunjukkan nilai tengah
 >> * Sisi atas box menunjukkan kuartil 3
 >> * Sisi bawah box menunjukkan kuartil 1
 >> * Ekor atas menunjukkan nilai maksimum kuartil, kuartil 3 + 1.5*(kuartil 3 - kuartil 1)
